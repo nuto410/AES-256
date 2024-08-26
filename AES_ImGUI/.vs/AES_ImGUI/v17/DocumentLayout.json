@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ccllab\\Desktop\\C\u002B\u002B\\AES_ImGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED704E6-D140-45F8-BBCD-6CBE1BDA5B0B}|AES_ImGUI\\AES_ImGUI.vcxproj|C:\\Users\\ccllab\\Desktop\\C\u002B\u002B\\AES_ImGUI\\AES_ImGUI\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ED704E6-D140-45F8-BBCD-6CBE1BDA5B0B}|AES_ImGUI\\AES_ImGUI.vcxproj|solutionrelative:AES_ImGUI\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ccllab\\Desktop\\C\u002B\u002B\\AES_ImGUI\\AES_ImGUI\\main.cpp",
+              "RelativeDocumentMoniker": "AES_ImGUI\\main.cpp",
+              "ToolTip": "C:\\Users\\ccllab\\Desktop\\C\u002B\u002B\\AES_ImGUI\\AES_ImGUI\\main.cpp",
+              "RelativeToolTip": "AES_ImGUI\\main.cpp",
+              "ViewState": "AQIAAEoDAAAAAAAAAAAqwFkDAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T08:03:29.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
